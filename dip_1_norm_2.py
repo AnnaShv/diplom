@@ -24,6 +24,10 @@ import matplotlib.patches as mpatches
         ax.set-title('Z')
         self.draw()'''
 
+
+#$blabla
+
+
 class App(QtWidgets.QMainWindow, ui.Ui_MainWindow):
     def __init__(self):
         super().__init__()
