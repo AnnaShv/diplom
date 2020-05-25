@@ -25,7 +25,7 @@ import matplotlib.patches as mpatches
         self.draw()'''
 
 
-#$blabla 123
+#$blabla 000
 
 
 class App(QtWidgets.QMainWindow, ui.Ui_MainWindow):
